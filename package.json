@@ -2,9 +2,9 @@
   "name": "segmenter",
   "version": "0.1.0",
   "description": "Code for implementation of a automatic segmenter",
-  "main": ".js/core/app.js",
+  "main": "dist/core/app.js",
   "scripts": {
-    "start": "tsc  && node .js/core/app.js",
+    "start": "tsc  && node dist/core/app.js",
     "dev": "tsc --watch true "
   },
   "keywords": [],

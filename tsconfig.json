@@ -3,7 +3,7 @@
     /*COMPILER*/
     "module": "commonjs",
 		"target": "esnext",
-		"outDir": ".js",
+		"outDir": "dist",
 
     /*DEV*/
     "watch": false,
