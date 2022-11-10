@@ -1,0 +1,13 @@
+{
+  "name": "segmenter",
+  "version": "0.1.0",
+  "description": "Code for implementation of a automatic segmenter",
+  "main": ".js/core/app.js",
+  "scripts": {
+    "start": "tsc  && node .js/core/app.js",
+    "dev": "tsc --watch true "
+  },
+  "keywords": [],
+  "author": "Léo Arnoult De Almeida",
+  "license": ""
+}

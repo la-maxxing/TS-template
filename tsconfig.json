@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    /*COMPILER*/
+    "module": "commonjs",
+		"target": "esnext",
+		"outDir": ".js",
+
+    /*DEV*/
+    "watch": false,
+    "strict": true,
+		"strictPropertyInitialization": false,
+
+    /*ECT*/
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
